@@ -5,8 +5,7 @@ output_mañaneras/*
 nltk_data/*
 
 # Ignore SBW-vectors
-corpus_word/SBW-vectors-300-min5.bin
-*.bin
+corpus_work/*
 
 # Ignore instance default files
 .__nb_swap__
