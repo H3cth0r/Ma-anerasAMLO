@@ -1,0 +1,17 @@
+# Ignore output_mañaneras
+output_mañaneras/*
+
+# Ignore NLTK data
+nltk_data/*
+
+# Ignore instance default files
+.__nb_swap__
+.cache/*
+.ipynb_checkpoints/*
+.ipython/*
+.local/*
+.npm/*
+.runtime-config-logs/*
+.viminfo
+lost+found/
+
