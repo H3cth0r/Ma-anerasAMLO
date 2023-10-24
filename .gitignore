@@ -6,6 +6,7 @@ nltk_data/*
 
 # Ignore SBW-vectors
 corpus_word/SBW-vectors-300-min5.bin
+*.bin
 
 # Ignore instance default files
 .__nb_swap__
