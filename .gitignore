@@ -17,4 +17,4 @@ corpus_work/*
 .runtime-config-logs/*
 .viminfo
 lost+found/
-
+.vim/
